@@ -11,7 +11,7 @@
 
 
 ## Gait Pattern Generation
-1. Raibery Heuristic Balance controller
+1. Raibert Heuristic Balance controller
 
 [EECS C106B / 206B Robotic Manipulation and Interaction](https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf)
 
