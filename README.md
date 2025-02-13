@@ -2,8 +2,8 @@
 Quadrupedal Robot Study and Projects
 ## Introduction
 
-[quadruped_gait.webm](https://github.com/user-attachments/assets/6a03457b-d53b-4ab9-a340-774191b2c46e)
 
+[Screencast from 02-14-2025 07:07:13 AM.webm](https://github.com/user-attachments/assets/f8238fd1-2583-47c4-b8ef-8e12f62d5b3d)
 
 (rosgraph)
 
