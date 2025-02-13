@@ -10,4 +10,15 @@
 ![rosgraph_](https://github.com/user-attachments/assets/cce919bf-e8d5-4510-abef-565f27cecf99)
 
 
-## 
+## Gait Pattern Generation
+1. Raibery Heuristic Balance controller
+
+https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf
+
+https://arxiv.org/pdf/2211.06223
+
+2. Trajectory Planning with Bezier curve 
+
+3. 
+
+
