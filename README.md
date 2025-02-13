@@ -13,9 +13,9 @@
 ## Gait Pattern Generation
 1. Raibery Heuristic Balance controller
 
-https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf
+[EECS C106B / 206B Robotic Manipulation and Interaction](https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf)
 
-https://arxiv.org/pdf/2211.06223
+[The Simplest Balance Controller for Dynamic Walking](https://arxiv.org/pdf/2211.06223)
 
 2. Trajectory Planning with Bezier curve 
 
