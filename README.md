@@ -2,8 +2,7 @@
 Quadrupedal Robot Study and Projects
 ## Introduction
 
-
-[Screencast from 02-14-2025 07:07:13 AM.webm](https://github.com/user-attachments/assets/f8238fd1-2583-47c4-b8ef-8e12f62d5b3d)
+[gait_test.webm](https://github.com/user-attachments/assets/694ac94e-6320-4e72-97b1-b59dc7b2b2e8)
 
 (rosgraph)
 
