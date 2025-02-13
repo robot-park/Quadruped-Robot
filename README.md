@@ -17,8 +17,11 @@
 
 [The Simplest Balance Controller for Dynamic Walking](https://arxiv.org/pdf/2211.06223)
 
-2. Trajectory Planning with Bezier curve 
+2. Trajectory Planning with Bezier curve
 
-3. 
+![Foot End Trajectory with Bezier curve](https://github.com/user-attachments/assets/290e8f01-9123-4fd2-b21e-c0ba2c51164a)
+
+
+4. 
 
 
