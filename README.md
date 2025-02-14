@@ -3,8 +3,7 @@
 
 ## Introduction
 
-[rototate.webm](https://github.com/user-attachments/assets/d36122d5-7d17-4179-b9e5-bd694294501e)
-
+[rotation.webm](https://github.com/user-attachments/assets/0a3ba3a8-f0d8-4456-a30a-2ad453011e31)
 
 ## Gait Pattern Generation
 1. Raibert Cotntrol
