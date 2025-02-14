@@ -11,13 +11,13 @@
 
 
 ## Gait Pattern Generation
-1. Raibert Heuristic Balance controller
+1. Raibert Cotntrol
 
-[EECS C106B / 206B Robotic Manipulation and Interaction](https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf)
+Heuristic control approach
 
-[The Simplest Balance Controller for Dynamic Walking](https://arxiv.org/pdf/2211.06223)
 
-2. Trajectory Planning with Bezier curve
+
+3. Trajectory Planning with Bezier curve
 
 ![Foot End Trajectory with Bezier curve](https://github.com/user-attachments/assets/290e8f01-9123-4fd2-b21e-c0ba2c51164a)
 
@@ -25,3 +25,8 @@
 4. 
 
 
+## Source
+
+[EECS C106B / 206B Robotic Manipulation and Interaction](https://pages.github.berkeley.edu/EECS-106/sp22-site/assets/scribe_notes/scribe_lec_14A.pdf)
+
+[The Simplest Balance Controller for Dynamic Walking](https://arxiv.org/pdf/2211.06223)
