@@ -1,5 +1,6 @@
 # Quadruped-Robot
 
+Quadruped Gait Simulation without Low-Level Controller (Only Trajectory)
 
 ## Introduction
 
