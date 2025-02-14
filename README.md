@@ -11,6 +11,11 @@ Quadruped Gait Simulation without Low-Level Controller (Only Trajectory)
 
 Heuristic control approach
 
+![hop_height](https://github.com/user-attachments/assets/a4ff596e-945e-4af2-8070-c12abf59e407)
+
+![body_alt](https://github.com/user-attachments/assets/b213d216-6efe-4474-ae2b-a02994b59559)
+
+![hopping speed](https://github.com/user-attachments/assets/a0aba093-ac56-414a-9ef6-5efe17cce987)
 
 
 3. Trajectory Planning with Bezier curve
