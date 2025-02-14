@@ -5,10 +5,6 @@
 
 [rototate.webm](https://github.com/user-attachments/assets/d36122d5-7d17-4179-b9e5-bd694294501e)
 
-(rosgraph)
-
-![rosgraph_](https://github.com/user-attachments/assets/cce919bf-e8d5-4510-abef-565f27cecf99)
-
 
 ## Gait Pattern Generation
 1. Raibert Cotntrol
@@ -24,6 +20,11 @@ Heuristic control approach
 
 4. 
 
+
+
+(rosgraph)
+
+![rosgraph_](https://github.com/user-attachments/assets/cce919bf-e8d5-4510-abef-565f27cecf99)
 
 ## Source
 
